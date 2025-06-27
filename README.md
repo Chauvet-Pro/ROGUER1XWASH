@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250609 - Rogue R1X Wash](https://github.com/Chauvet-Pro/ROGUER1XWASH/blob/b1d25a2fe4b15ec891bbd4d0d3c310eaa5fc0448/firmware/V1.250609.zip)
+- Fixes a freezing issue with ETC
+
 [V1.241113 - Rogue R1X Wash](https://github.com/Chauvet-Pro/ROGUER1XWASH/blob/9df27792c52d4b82ab65c8dbafafb4c02c853407/firmware/V1.241113.zip)
 - No new features or performance enhancements were added. This update is for internal use only
 
