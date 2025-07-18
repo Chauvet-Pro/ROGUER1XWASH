@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250710 - Rogue R1X Wash](https://github.com/Chauvet-Pro/ROGUER1XWASH/blob/3fd88ba54bef41c432c17886f41e39bcf2d33167/firmware/V1.250710.zip)
+- Fix the issue that fixtures will be uncontrollable via NET-X II
+
 [V1.250609 - Rogue R1X Wash](https://github.com/Chauvet-Pro/ROGUER1XWASH/blob/b1d25a2fe4b15ec891bbd4d0d3c310eaa5fc0448/firmware/V1.250609.zip)
 - Fixes a freezing issue with ETC
 
